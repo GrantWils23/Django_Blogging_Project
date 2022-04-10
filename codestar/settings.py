@@ -33,6 +33,8 @@ DEBUG = False
 
 X_FRAME_ORIGIN = 'SAMEORIGIN'
 
+ACCOUNT_EMAIL_VERIFICATION = 'none'
+
 ALLOWED_HOSTS = ['codestar-blog-application.herokuapp.com', 'localhost']
 
 
